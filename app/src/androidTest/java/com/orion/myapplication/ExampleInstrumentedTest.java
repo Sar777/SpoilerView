@@ -1,4 +1,4 @@
-package com.orion.mvp_example;
+package com.orion.myapplication;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.orion.mvp_example", appContext.getPackageName());
+        assertEquals("com.orion.myapplication", appContext.getPackageName());
     }
 }

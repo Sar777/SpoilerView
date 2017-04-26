@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SliderView">
+        <attr name="animationDuration" format="integer"/>
+
+        <attr name="headerHeight" format="dimension"/>
+        <attr name="headerColor" format="color"/>
+        <attr name="headerText" format="string"/>
+        <attr name="headerTextColor" format="color"/>
+    </declare-styleable>
+</resources>

@@ -1,4 +1,4 @@
-package com.orion.mvp_example;
+package com.orion.myapplication;
 
 import org.junit.Test;
 
